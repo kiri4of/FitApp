@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  FitApp
-//
-//  Created by Kiri4of on 21/05/2025.
-//
 
 import SwiftUI
 
